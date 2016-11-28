@@ -1,4 +1,4 @@
-# Simple Startkit for Blueprint and TypeScript
+# Simple Starter kit for Blueprint and TypeScript
 
 1. git clone https://github.com/duk/blueprint_webpack_starter.git
 2. npm install
